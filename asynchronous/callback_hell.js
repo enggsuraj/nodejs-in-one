@@ -1,4 +1,3 @@
-
 //dog.ceo api
 
 //Callback inside a callback and so on .... = callback hell

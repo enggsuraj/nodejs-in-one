@@ -1,4 +1,3 @@
-
 /************** SYNCHRONOUS FILE READING **************/
 
 const fs = require('fs')

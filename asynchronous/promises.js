@@ -1,4 +1,3 @@
-
 //supeagent get method return promise
 //like yeah sever give me a random dog image in the background and give me when you are ready
 

@@ -19,4 +19,3 @@ app.post('/',(req,res)=>{
 app.listen(8000,(req,res)=>{
     console.log('Server started!!🧨')
 })
-

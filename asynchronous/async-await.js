@@ -1,5 +1,3 @@
-
-
 const getDogPic = async () => {
     try {
       const data = await readFilePro(`${__dirname}/dog.txt`);
@@ -26,6 +24,5 @@ const getDogPic = async () => {
       throw err;
     }
   };
-  
 
   getDogPic();

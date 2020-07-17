@@ -1,5 +1,3 @@
-
-
 const http = require('http');
 const fs = require('fs')
 const port = 8080;
@@ -25,7 +23,6 @@ const replaceTemplate=(temp,product)=>{
         output = output.replace(/{%NOT_ORGANIC%}/g,'not-grganic')
         return output;
     }
-
 }
 
 const server = http.createServer((req,res)=>{

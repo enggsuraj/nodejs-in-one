@@ -1,4 +1,3 @@
-
 const fs = require('fs');
 const superagent = require('superagent');
 
@@ -24,7 +23,6 @@ const writeFilePro = (file,data) => {
         })
     })
 }
-
 
 readFilePro(`${__dirname}/txt/dog.txt`)
 
